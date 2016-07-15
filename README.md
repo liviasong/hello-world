@@ -1,3 +1,3 @@
 # hello-world
-this is a repository, i am learning what this is
-what is a readme, I am so confused
+Hi I am making some changes to this read me file. 
+This readme file is part of my github tutorial. 
